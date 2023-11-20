@@ -4,8 +4,6 @@ public class Main {
         Task2();
         Task3();
         Task4();
-        Task5();
-
     }
 
     public static void Task1() {
@@ -23,9 +21,5 @@ public class Main {
 
     public static void Task4() {
         System.out.println("Task4");
-    }
-
-    public static void Task5() {
-        System.out.println("Task5");
     }
 }
