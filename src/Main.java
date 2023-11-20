@@ -3,7 +3,6 @@ public class Main {
         Task1();
         Task2();
         Task3();
-        Task4();
     }
 
     public static void Task1() {
